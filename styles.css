@@ -71,6 +71,14 @@ body
     
 }
 
+.counter {
+    display: none;
+    font-size: 18px;
+    color: #ff4d79;
+    margin: 5px 0;
+    -webkit-text-stroke: 1px #71004f;
+}
+
 .hidden-message {
     display: none;
     margin-top: 20px;
